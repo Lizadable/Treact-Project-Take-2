@@ -1,3 +1,4 @@
+
 * {
   padding: 0;
   margin: 0;
@@ -408,11 +409,10 @@ FEATURES
   width: calc(100% / 3);
 }
 
-.feature-row {
+.feature__row {
   display: flex;
   align-items: flex-start;
-  padding: 32px 24px;
-}
+  }
 
 .feature__img--wrapper {
   display: flex;
